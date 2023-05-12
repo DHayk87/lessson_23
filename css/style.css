@@ -1,0 +1,23 @@
+.dropdown-item:hover{
+    background-color: lightgray;
+}
+
+.carousel-item img{
+    object-fit: cover;
+    height: 100%;
+}
+.carousel-item{
+    height: 100%;
+}
+.slider{
+    width: 60%;
+}
+
+.cards{
+    padding: 60px 0;
+    text-align: center;
+}
+
+.card{
+    margin: 15px auto;
+}
